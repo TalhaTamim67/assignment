@@ -1,0 +1,285 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4),
+            rgba(0, 0, 0, 0.4)), url("images/donation13.jpg");
+    background-size: cover;
+    background-repeat: no repeat;
+    height: 100vh;
+    margin-bottom: 8%;
+}
+
+.title-box {
+    text-align: center;
+    padding-top: 14%;
+    width: 50%;
+    padding-left: 25%;
+
+
+}
+
+.title-box h1 {
+    color: rgb(206, 209, 211);
+    font-size: 52px;
+    padding-bottom: 2%;
+}
+
+.title-box p {
+    color: rgb(202, 205, 207);
+    padding-bottom: 4%;
+}
+
+.btn-donate a {
+    text-decoration: none;
+    background-color: #ff5959;
+    width: 50px;
+    height: 20px;
+    color: white;
+    padding: 10px 13px;
+    border-radius: 4px;
+}
+
+.donate-today {
+    text-align: center;
+    width: 50%;
+    padding-left: 25%;
+    margin-bottom: 4%;
+}
+
+.donate-today h1 {
+    font-size: 42px;
+    margin-bottom: 2%;
+
+}
+
+.donate-today p {
+    color: #706c6c;
+}
+
+.amount-box {
+    width: 100%;
+    text-align: center;
+
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 4%;
+    font-size: 27px;
+    color: #706c6c;
+    font-weight: 700;
+    margin-bottom: 2%;
+
+}
+
+.twozerozero-tk {
+    color: #ff5959;
+    border: solid #ff5959 1px;
+    border: solid #ff5959 1px;
+    padding: 20px 12px;
+
+}
+
+input {
+    background-color: white;
+    border: 0px solid;
+    height: 20px;
+    width: 160px;
+    color: #CCC;
+}
+
+.margin-btn {
+    margin-top: 3%;
+    padding-right: 2.5%;
+    margin-bottom: 6.5%;
+}
+
+.donate-plan {
+    display: flex;
+}
+
+.donate-width {
+    width: 22%;
+    padding: 50px 0px;
+    margin-left: 9%;
+
+}
+
+.donate-width h3 {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.color-a {
+    background-color: #FFF4D6;
+}
+
+.color-b {
+    background-color: #FFEEEE;
+
+}
+
+.color-c {
+    background-color: #EDF5F6;
+
+}
+
+.contribute {
+    display: flex;
+    margin-top: 11%;
+    margin-bottom: 10%;
+}
+
+.contribute-text p {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: #706c6c;
+}
+
+
+.contribution-width {
+    width: 30%;
+    margin-left: 13%;
+}
+
+.contribution-img img {
+    width: 100%;
+    height: 320px;
+
+}
+
+.subscribe-btn {
+    margin-left: 20%;
+}
+
+.input-2 {
+    margin-top: 2%;
+    padding-top: 12%;
+}
+
+.email-btn {
+    text-align: center;
+}
+
+
+
+.flex {
+
+    display: inline;
+}
+
+.inp-back {
+    width: 50%;
+    background-color: #6e5611;
+    display: inline;
+    height: 200px;
+}
+
+.inp-back1 {
+    background-color: #FFF4D6;
+    width: 65%;
+    height: 220px;
+    margin-left: 18%;
+    text-align: center;
+}
+
+button {
+    background-color: #ff5959;
+    color: white;
+    padding: 2px;
+    border: none;
+    padding: 10px 13px;
+    border-radius: 5px;
+}
+
+footer {
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+
+}
+
+footer h1 {
+    color: #ff5959;
+    font-family: 'Lobster Two', cursive;
+    padding-top: 3%;
+}
+
+footer p {
+    color: white;
+}
+
+.blog-title h1 {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.blog-img {
+    margin-bottom: 5%;
+}
+
+.overlay-img {
+    width: 100%;
+    background-image: url(images/donation20.jpg);
+    height: 400px;
+}
+
+.overlay-img img {
+    width: 100%;
+}
+
+.overlay-img h1 {
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 40px;
+}
+
+.overlay-img p {
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.img-btn {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.blogs {
+    width: 100%;
+
+
+    display: flex;
+    margin-bottom: 14%;
+}
+
+.blog-width {
+    width: 23%;
+    margin-left: 8%;
+
+}
+
+.blog-width img {
+    width: 100%;
+    padding-bottom: 8%;
+}
+
+.blog-text {
+    display: flex;
+}
+
+.blog-width a {
+    font-size: 25px;
+    padding-bottom: 3%;
+    color: #ff5959;
+}
+
+.blog-width p {
+    padding-top: 4%;
+}
